@@ -5,9 +5,7 @@ public class FizzBuzz {
             if (i%3==0) { // i%3==0.if
                 out += "Fizz";
             }
-            if (i%5==0) {
-                out += "Buzz";
-            }
+            if (i%5==0) {out += "Buzz";}
             if (i % 3 != 0 && i % 5 != 0) { // i%3==0.not
                 out +=i;
             }
