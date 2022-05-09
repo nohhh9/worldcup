@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Check","l":"Check()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"worldcup","l":"isWorldcupYear(int)"},{"p":"<Unnamed>","c":"Check","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"worldcup","l":"worldcup()","u":"%3Cinit%3E()"}];updateSearchResults();

@@ -1,0 +1,50 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/a./IdeaProjects/worldcup/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/a./IdeaProjects/worldcup/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'worldcup 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'worldcup 1.0-SNAPSHOT API'
+'/Users/a./IdeaProjects/worldcup/src/main/java/worldcup.java'
+'/Users/a./IdeaProjects/worldcup/src/main/java/Check.java'
+/Users/a./IdeaProjects/worldcup/src/main/java/worldcup.java = 1651553730315
+/Users/a./IdeaProjects/worldcup/src/main/java/Check.java = 1651553574190
+/Users/a./IdeaProjects/worldcup/src/main/java = 1651553730315
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/tag-search-index.js = 1651554074371
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/overview-tree.html = 1651554074347
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/module-search-index.js = 1651554074370
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/index.html = 1651554074387
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/package-search-index.js = 1651554074371
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/jquery-ui.overrides.css = 1651554074412
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/package-use.html = 1651554074336
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/index-all.html = 1651554074386
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/allpackages-index.html = 1651554074366
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/worldcup.html = 1651554074292
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/Check.html = 1651554074243
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/member-search-index.js = 1651554074371
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/script.js = 1651554074402
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/stylesheet.css = 1651554074401
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/help-doc.html = 1651554074397
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/package-summary.html = 1651554074311
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/package-tree.html = 1651554074319
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/element-list = 1651554074293
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/allclasses-index.html = 1651554074363
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/type-search-index.js = 1651554074371
+/Users/a./IdeaProjects/worldcup/target/site/apidocs/search.js = 1651554074404
